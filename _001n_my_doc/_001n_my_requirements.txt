@@ -1,0 +1,6 @@
+
+conda create --prefix ./_016n_WaveFormer python=3.9.25
+
+pip install timm
+pip install einops
+pip install torch-dct
